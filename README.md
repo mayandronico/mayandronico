@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mayara Andronico</h1>
-<h3 align="center">An brazilian adwoman in transition carreer. I'm in love with tecnology!</h3>
+<h1 align="center">Olá 👋, sou a Mayara Andronico</h1>
+<h3 align="center">Uma publicitária em transição de carreira. Sou apaixonada por tecnologia!</h3>
 
 <p align="left">
 </p>
