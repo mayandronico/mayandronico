@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, sou a Mayara Andronico</h1>
 <h3 align="center">Uma publicitária em transição de carreira.
-  Tecnologia é o caminho para resolver problemas simples e complexos. Por isso é apaixonante!</h3>
+  Tecnologia é o caminho para resolver problemas simples e complexos, por isso é apaixonante!</h3>
 
 <p align="left">
 </p>
