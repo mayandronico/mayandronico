@@ -1,6 +1,5 @@
 <h1 align="center">Olá 👋, sou a Mayara Andronico</h1>
 <p align="center"><br>
-bulb .<br>
 graduation-cap Sou estudante de desenvolvimento web na Trybe green_heart.<br>
 rocket Em busca de uma oportunidade na área de backend </p>
 
