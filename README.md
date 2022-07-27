@@ -1,12 +1,5 @@
 <h1 align="center">Olá 👋, sou a Mayara Andronico</h1>
 <p align="center"><br>
-graduation-cap Sou estudante de desenvolvimento web na Trybe green_heart.<br>
-rocket Em busca de uma oportunidade na área de backend </p>
-
-<p align="left">
-</p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   - Publicitária em transição de carreira <br>
