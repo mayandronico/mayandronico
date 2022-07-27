@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou a Mayara Andronico</h1>
 <p align="left"> 
   - Publicitária em transição de carreira <br>
-  - Sou estudante de desenvolvimento web na Trybe
+  - Estudante de desenvolvimento web na Trybe
 </p>
 
 <p align="left">
