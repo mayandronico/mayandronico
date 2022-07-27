@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Tenho conhecimentos em HTML, CSS, JavaScript, React, NodeJs, Docker, MySQL, MongoDB.</strong>
+  🦄 <strong>Tenho conhecimentos em HTML, CSS, JavaScript, React, NodeJs, Docker, MySQL, MongoDB.</strong>
 </p>
 
 <p align="left">
