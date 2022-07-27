@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, sou a Mayara Andronico</h1>
-<h3 align="center">Publicitária em transição de carreira
-bulb Tenho conhecimentos em HTML, CSS, JavaScript, React, NodeJs, Docker, MySQL, MongoDB.
-graduation-cap Sou estudante de desenvolvimento web na Trybe green_heart.
-rocket Em busca de uma oportunidade na área de backend </h3>
+<p align="center">Publicitária em transição de carreira<br>
+bulb Tenho conhecimentos em HTML, CSS, JavaScript, React, NodeJs, Docker, MySQL, MongoDB.<br>
+graduation-cap Sou estudante de desenvolvimento web na Trybe green_heart.<br>
+rocket Em busca de uma oportunidade na área de backend </p>
 
 <p align="left">
 </p>
