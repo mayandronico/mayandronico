@@ -1,6 +1,8 @@
 <h1 align="center">Olá 👋, sou a Mayara Andronico</h1>
-<h3 align="center">Uma publicitária em transição de carreira.
-  Tecnologia é o caminho para resolver problemas simples e complexos, por isso é apaixonante!</h3>
+<h3 align="center">Publicitária em transição de carreira
+bulb Tenho conhecimentos em HTML, CSS, JavaScript, React, NodeJs, Docker, MySQL, MongoDB.
+graduation-cap Sou estudante de desenvolvimento web na Trybe green_heart.
+rocket Em busca de uma oportunidade na área de backend </h3>
 
 <p align="left">
 </p>
