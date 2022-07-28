@@ -3,15 +3,15 @@
  <strong>- Publicitária em transição de carreira</strong>
   <br>
     <br>
- <strong>- Estudante de desenvolvimento web na Trybe</strong>
+ <strong>- Atualmente sou estudante de desenvolvimento web full-stack na Trybe</strong>
 </p>
 
 <p align="left">
-  🦄 <strong>Tenho conhecimentos em HTML, CSS, JavaScript, React, NodeJs, Docker, MySQL, MongoDB.</strong>
+   <strong>- Tenho conhecimentos em HTML, CSS, JavaScript, React, NodeJs, Docker, MySQL, MongoDB.</strong>
 </p>
 
 <p align="left">
-  💼 <strong>Estou em busca de uma oportunidade na área de backend</strong>
+  <strong>- Estou em busca de uma oportunidade na área de tecnologia</strong>
 </p>
 
 <p align="left">
