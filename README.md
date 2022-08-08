@@ -7,6 +7,8 @@
 
 - 👯 Buscando: **Uma oportunidade na área de tecnologia, onde eu possa aprimorar meus conhecimentos**
 
+-    Ferramentas: VSCode, Trello, Heroku, GitHub.
+
 <h3 align="left">Meu LinkedIn:</h2><a href="https://www.linkedin.com/in/mayara-andronico/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayara-andronico/" height="30" width="40" /></a>
 </p>
 
