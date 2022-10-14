@@ -3,7 +3,7 @@
 
 - 🌱 Aprendendo: **HTML, CSS, JavaScript, React, NodeJs, Docker, MySQL, MongoDB, testes, Python**
 
-- 📫 Contato: **mayandronico@msn.com**
+- 📫 Contato: <a href="mailto: mayandronico@msn.com" target="_blank">
 
 - 👯 Buscando: **Uma oportunidade na área de tecnologia, onde eu possa aprimorar meus conhecimentos**
 
