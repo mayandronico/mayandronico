@@ -5,7 +5,7 @@
 
 - 📫 Email: <a href="mailto: mayandronico@msn.com" target="_blank">mayandronico@msn.com</a>
 
-- 👯 Buscando: **Uma oportunidade na área de tecnologia, onde eu possa aprimorar meus conhecimentos**
+- 👯 Buscando: **Uma oportunidade na área de tecnologia, onde eu possa aprimorar meus conhecimentos para construir novas experiências**
 
 -    Ferramentas: VSCode, Trello, Heroku, GitHub.
 
