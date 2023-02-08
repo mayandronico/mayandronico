@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayara Andronico</h1>
-<h3 align="center">Sou uma publicitária em transição de carreira, estudando Desenvolvimento Web na Trybe</h3>
+<h3 align="center">Sou uma publicitária em transição de carreira, estudando Desenvolvimento Web</h3>
 
 - 🌱 Aprendendo: **HTML, CSS, JavaScript, React, NodeJs, Docker, MySQL, MongoDB, testes, Python**
 
